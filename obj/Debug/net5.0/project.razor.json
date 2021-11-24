@@ -15619,8 +15619,28 @@
   "RootNamespace": "HookedOnBooks",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\_ViewImports.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\_ViewImports.cshtml",
       "TargetPath": "_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Home\\Index.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\_Layout.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15629,8 +15649,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\_LoginPartial.cshtml",
       "TargetPath": "_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15639,8 +15669,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\_Layout.cshtml",
       "TargetPath": "_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\_LoginPartial.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15654,8 +15699,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Error.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\_ViewStart.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\Error.cshtml",
       "TargetPath": "Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\roryr\\Desktop\\repo\\Rom\\Hookedbybooks\\bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "bookbythe\\bookstorever1\\bookssteponecomplete\\HookedOnBooks\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
